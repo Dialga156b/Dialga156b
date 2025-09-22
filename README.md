@@ -4,5 +4,4 @@ Highschool student specializing in student studyology with a concentration in th
 # Currently Learning
 - panera bread sandwichology
 - analysis
-- fun dip
 - quantum mechanics
